@@ -8,7 +8,7 @@ A quick-start Blazor project that helps you to customize the header, swimlane, a
 
 **Swimlane Template**: https://blazor.syncfusion.com/documentation/kanban/swimlane#template
 
-**Kanban Template**: https://blazor.syncfusion.com/demos/kanban/header-template?theme=bootstrap4
+**Online Samples**: https://blazor.syncfusion.com/demos/kanban/header-template?theme=bootstrap4
 
 ## Prerequisites
 
