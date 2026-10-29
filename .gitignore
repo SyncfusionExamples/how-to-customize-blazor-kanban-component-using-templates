@@ -1,7 +1,2 @@
-## Visual Studio / .NET Core
-.vs/
-[Bb]in/
-[Oo]bj/
-*.user
-*.userosscache
-*.sln.docstates
+bin/
+obj/
