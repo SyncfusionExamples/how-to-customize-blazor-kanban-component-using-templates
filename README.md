@@ -26,13 +26,13 @@ Online samples: https://blazor.syncfusion.com/demos/kanban/header-template?theme
 
 ## Prerequisites
 
-- Visual Studio 2022 (or later)
-- The .NET SDK required by the solution
+- Visual Studio 2026 or Visual Studio 2022 17.14+
+- .NET 10 SDK
 
 ## Run the project
 
 1. Clone the repository to a local folder.
-2. Open the solution in Visual Studio 2022.
+2. Open the `CustomizingKanbanSample` project in Visual Studio.
 3. Restore NuGet packages by rebuilding the solution or run `dotnet restore`.
 4. Build and run the project from Visual Studio.
 
